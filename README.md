@@ -1,7 +1,10 @@
 # cornershop_estimator
-My take on a Cornershop time estimator model,
+My take on a Cornershop time estimator model.
 
-* Final submission can be found on submission.csv
+## tl;dr:
+
+* Final submission can be found on submission.csv, label is 
+````
 * Explanation on submission found on Notebook #00.
 * Explanation of dataset used on Notebooks #01 to #05.
 
